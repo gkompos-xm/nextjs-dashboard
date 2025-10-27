@@ -12,3 +12,9 @@ export const roboto = localFont({
     variable: '--font-roboto',
     display: 'swap',
 });
+
+export const lusitana = localFont({
+    src: '/fonts/Lusitana-Regular.ttf',
+    variable: '--font-lusitana',
+    display: 'swap',
+});
